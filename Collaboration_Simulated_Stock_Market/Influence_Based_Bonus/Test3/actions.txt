@@ -1,0 +1,4238 @@
+Chat History:
+Prompt:
+### Portfolio Data
+Day: 2024-01-02
+Balance: $100000.00
+Valuation: $100000.00
+Stock Portfolio: No stocks owned.
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY AAPL SHARES 10
+Reasoning: I'm taking a bold stance on AAPL's market momentum and am confident it will continue to drive prices upward.
+Prompt:Purchased 10 shares of AAPL for $1856.40. Remaining balance: $98143.60
+### Portfolio Data
+Day: 2024-01-03
+Balance: $98143.60
+Valuation: $99986.10
+Stock Portfolio: AAPL: 10 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL AAPL SHARES 5
+Reasoning: I agree that AAPL's price drop and increased trading volume indicate a potential reversal, and Trader A's cautious approach may be wise to avoid further losses.
+Prompt:Sold 5 shares of AAPL for $921.25. New balance: $99064.85
+### Portfolio Data
+Day: 2024-01-04
+Balance: $99064.85
+Valuation: $99974.40
+Stock Portfolio: AAPL: 5 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 20
+Reasoning: I'm sticking to my bullish stance on MSFT, and with AAPL's price drop, it may be an opportunity to capitalize on the shift in sentiment.
+Prompt:Purchased 20 shares of MSFT for $7358.80. Remaining balance: $91706.05
+### Portfolio Data
+Day: 2024-01-05
+Balance: $91706.05
+Valuation: $92611.95
+Stock Portfolio: AAPL: 5 shares,MSFT: 20 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL AAPL SHARES 5
+Reasoning: I'm opting to align with Trader S's cautious approach, recognizing the potential for further losses if we hold onto AAPL shares and instead choosing to capitalize on the recent price drop.
+Prompt:Could not fetch stock price
+### Portfolio Data
+Day: 2024-01-05
+Balance: $91706.05
+Valuation: $99966.95
+Stock Portfolio: AAPL: 5 shares,MSFT: 20 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'll wait for the stock price of MSFT to be fetched before making any decision, as Trader S's approach is more cautious and could lead to a stronger overall group decision.
+Prompt:
+### Portfolio Data
+Day: 2024-01-08
+Balance: $91706.05
+Valuation: $100127.65
+Stock Portfolio: AAPL: 5 shares,MSFT: 20 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 10
+Reasoning: I'm choosing to align with Trader S's bullish proposal, as the recent price increase and news report suggest a promising long-term opportunity for MSFT shares.
+Prompt:Purchased 10 shares of MSFT for $3746.90. Remaining balance: $87959.15
+### Portfolio Data
+Day: 2024-01-09
+Balance: $87959.15
+Valuation: $87959.15
+Stock Portfolio: AAPL: 5 shares,MSFT: 30 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I will align with Trader S's cautious approach to gather more information before making a decision, as waiting for stock price updates can lead to more informed choices.
+Prompt:
+### Portfolio Data
+Day: 2024-01-10
+Balance: $87959.15
+Valuation: $100373.20
+Stock Portfolio: AAPL: 5 shares,MSFT: 30 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 5
+Reasoning: I will adjust my stance to align with Trader C's bullish proposal, as their recent news report about Microsoft's AI breakthrough seems promising and warrants further consideration.
+Prompt:Purchased 5 shares of MSFT for $1913.85. Remaining balance: $86045.30
+### Portfolio Data
+Day: 2024-01-11
+Balance: $86045.30
+Valuation: $100435.30
+Stock Portfolio: AAPL: 5 shares,MSFT: 35 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY AAPL SHARES 2
+Reasoning: I will adjust my stance to prioritize maximizing overall profits from MSFT's growing demand, given Trader C's bullish proposal seems promising and warrants further consideration.
+Prompt:Purchased 2 shares of AAPL for $371.18. Remaining balance: $85674.12
+### Portfolio Data
+Day: 2024-01-12
+Balance: $85674.12
+Valuation: $100572.01
+Stock Portfolio: AAPL: 7 shares,MSFT: 35 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY GOOG
+Reasoning: I will align my strategy with Trader C's bullish proposal on Google's AI advancements, as it has the potential to positively impact Microsoft's prospects and justify further consideration.
+Prompt:Invalid action received. Please follow the format given.
+### Portfolio Data
+Day: 2024-01-12
+Balance: $85674.12
+Valuation: $100572.01
+Stock Portfolio: AAPL: 7 shares,MSFT: 35 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I will prioritize caution and wait for new information or market developments to reassess my strategy before making a potentially impactful decision.
+Prompt:
+### Portfolio Data
+Day: 2024-01-16
+Balance: $85674.12
+Valuation: $100618.98
+Stock Portfolio: AAPL: 7 shares,MSFT: 35 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: Aligning with Trader A's cautious approach allows for a more informed decision, potentially leading to a stronger group outcome.
+Prompt:
+### Portfolio Data
+Day: 2024-01-17
+Balance: $85674.12
+Valuation: $100584.33
+Stock Portfolio: AAPL: 7 shares,MSFT: 35 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 10
+Reasoning: The recent partnership deal with Vodafone presents a significant boost to Microsoft's stock value, making it an attractive opportunity for buying and potentially aligning with the group's collective success.
+Prompt:Purchased 10 shares of MSFT for $3894.70. Remaining balance: $81779.42
+### Portfolio Data
+Day: 2024-01-18
+Balance: $81779.42
+Valuation: $83099.83
+Stock Portfolio: AAPL: 7 shares,MSFT: 45 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I want to assess the overall market sentiment and await any significant price movements or updates before making a decision.
+Prompt:
+### Portfolio Data
+Day: 2024-01-19
+Balance: $81779.42
+Valuation: $101060.49
+Stock Portfolio: AAPL: 7 shares,MSFT: 45 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: Trader A's cautious approach to make an informed decision about Microsoft's stock aligns with my desire to assess the overall market sentiment and potentially avoid overpaying for shares.
+Prompt:
+### Portfolio Data
+Day: 2024-01-22
+Balance: $81779.42
+Valuation: $100979.60
+Stock Portfolio: AAPL: 7 shares,MSFT: 45 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm adjusting my decision to align with Trader A's cautious approach, recognizing the potential for a larger market correction and wanting to avoid overpaying for shares.
+Prompt:
+### Portfolio Data
+Day: 2024-01-23
+Balance: $81779.42
+Valuation: $101096.18
+Stock Portfolio: AAPL: 7 shares,MSFT: 45 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm shifting my decision to align with Trader A's cautious approach, prioritizing avoiding overpaying for shares over immediate gains.
+Prompt:
+### Portfolio Data
+Day: 2024-01-24
+Balance: $81779.42
+Valuation: $101256.12
+Stock Portfolio: AAPL: 7 shares,MSFT: 45 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: Aligning with Trader A's cautious approach to avoid overpaying for shares and prioritize a more conservative strategy.
+Prompt:
+### Portfolio Data
+Day: 2024-01-25
+Balance: $81779.42
+Valuation: $101357.76
+Stock Portfolio: AAPL: 7 shares,MSFT: 45 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm choosing to wait for more information or changes in the market before making a decision, as Trader A's cautious approach prioritizes avoiding overpaying for shares.
+Prompt:
+### Portfolio Data
+Day: 2024-01-26
+Balance: $81779.42
+Valuation: $101303.21
+Stock Portfolio: AAPL: 7 shares,MSFT: 45 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 10
+Reasoning: I'm shifting towards Trader A's decision to capitalize on the potential upward trend and maximize collective profits by aligning with a stronger proposal.
+Prompt:Could not fetch stock price
+### Portfolio Data
+Day: 2024-01-26
+Balance: $81779.42
+Valuation: $99956.27
+Stock Portfolio: AAPL: 7 shares,MSFT: 45 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm choosing to support Trader A's cautious approach, as aligning with their wait-and-see strategy may increase our chances of avoiding overpaying for shares and maximize overall profits.
+Prompt:
+### Portfolio Data
+Day: 2024-01-29
+Balance: $81779.42
+Valuation: $101558.93
+Stock Portfolio: AAPL: 7 shares,MSFT: 45 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm choosing to support Trader A's cautious approach as it aligns with a wait-and-see strategy that could lead to higher overall profits if the market stabilizes and more information becomes available.
+Prompt:
+### Portfolio Data
+Day: 2024-01-30
+Balance: $81779.42
+Valuation: $100165.97
+Stock Portfolio: AAPL: 7 shares,MSFT: 45 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm shifting my stance to align with Trader A's cautious approach, as it may allow us to gather more information and potentially avoid overpaying for shares.
+Prompt:
+### Portfolio Data
+Day: 2024-01-31
+Balance: $81779.42
+Valuation: $100961.32
+Stock Portfolio: AAPL: 7 shares,MSFT: 45 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm adopting Trader A's cautious approach to gather more information and potentially avoid overpaying for shares, prioritizing collective gains over personal influence.
+Prompt:
+### Portfolio Data
+Day: 2024-02-01
+Balance: $81779.42
+Valuation: $101257.54
+Stock Portfolio: AAPL: 7 shares,MSFT: 45 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 10
+Reasoning: MSFT's recent news and strong Q4 earnings results make it a stronger opportunity to increase my stake in the company, potentially leading to higher collective profits.
+Prompt:Purchased 10 shares of MSFT for $4037.80. Remaining balance: $77741.62
+### Portfolio Data
+Day: 2024-02-02
+Balance: $77741.62
+Valuation: $101659.67
+Stock Portfolio: AAPL: 7 shares,MSFT: 55 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT  
+Reasoning: MSFT's recent news and strong Q4 earnings results make it a stronger opportunity to increase my stake in the company, potentially leading to higher collective profits.
+Prompt:
+### Portfolio Data
+Day: 2024-02-05
+Balance: $77741.62
+Valuation: $101366.13
+Stock Portfolio: AAPL: 7 shares,MSFT: 55 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 10
+Reasoning: I'm aligning my strategy with Trader A's idea to capitalize on MSFT's recent price drop and analyst optimism, potentially maximizing collective profits.
+Prompt:Purchased 10 shares of MSFT for $4056.50. Remaining balance: $73685.12
+### Portfolio Data
+Day: 2024-02-06
+Balance: $73685.12
+Valuation: $101367.07
+Stock Portfolio: AAPL: 7 shares,MSFT: 65 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'll consider Trader A's cautious approach to align my decision with the group's potential collective gain, while still respecting my initial preference for MSFT.
+Prompt:
+### Portfolio Data
+Day: 2024-02-07
+Balance: $73685.12
+Valuation: $100598.37
+Stock Portfolio: AAPL: 7 shares,MSFT: 65 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY AAPL SHARES 10
+Reasoning: I'm sticking to my original plan, leveraging AAPL's recent volatility to counterbalance MSFT's potential price movement.
+Prompt:Purchased 10 shares of AAPL for $1894.10. Remaining balance: $71791.02
+### Portfolio Data
+Day: 2024-02-08
+Balance: $71791.02
+Valuation: $101909.61
+Stock Portfolio: AAPL: 17 shares,MSFT: 65 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm aligning my decision with Trader A's cautious approach to maximize overall profits and group gains.
+Prompt:
+### Portfolio Data
+Day: 2024-02-09
+Balance: $71791.02
+Valuation: $102337.22
+Stock Portfolio: AAPL: 17 shares,MSFT: 65 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: Trader A's cautious approach may uncover a stronger opportunity that balances personal influence with group success.
+Prompt:
+### Portfolio Data
+Day: 2024-02-12
+Balance: $71791.02
+Valuation: $101964.47
+Stock Portfolio: AAPL: 17 shares,MSFT: 65 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 5
+Reasoning: I'm aligning my decision with Trader C's strong buy recommendation and price strength highlighted in the news articles to capitalize on potential growth opportunities.
+Prompt:Could not fetch stock price
+### Portfolio Data
+Day: 2024-02-12
+Balance: $71791.02
+Valuation: $101964.47
+Stock Portfolio: AAPL: 17 shares,MSFT: 65 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'll wait for new data or an update on the stock prices before making any further actions to ensure a more informed decision.
+Prompt:
+### Portfolio Data
+Day: 2024-02-13
+Balance: $71791.02
+Valuation: $101347.50
+Stock Portfolio: AAPL: 17 shares,MSFT: 65 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL MSFT 10 SHARES
+Reasoning: I'm aligning myself with Trader A's decision to capitalize on the current trend, as it presents a potential opportunity for profit before the stock price reverses direction.
+Prompt:Please enter a whole number of shares
+### Portfolio Data
+Day: 2024-02-13
+Balance: $71791.02
+Valuation: $101347.50
+Stock Portfolio: AAPL: 17 shares,MSFT: 65 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY AAPL SHARES 20
+Reasoning: By supporting Trader C's decision to buy AAPL shares, I'm aligning myself with a potentially strong trend and increasing our collective chances of profit.
+Prompt:Purchased 20 shares of AAPL for $3700.80. Remaining balance: $68090.22
+### Portfolio Data
+Day: 2024-02-14
+Balance: $68090.22
+Valuation: $101520.62
+Stock Portfolio: AAPL: 37 shares,MSFT: 65 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 5
+Reasoning: I'm prioritizing the current trend and potential profit opportunity in MSFT, which seems to have a strong consensus among traders.
+Prompt:Purchased 5 shares of MSFT for $2047.45. Remaining balance: $66042.77
+### Portfolio Data
+Day: 2024-02-15
+Balance: $66042.77
+Valuation: $101304.79
+Stock Portfolio: AAPL: 37 shares,MSFT: 70 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL AAPL SHARES 3
+Reasoning: By supporting Trader A's decision to sell AAPL shares, I'm acknowledging potential market correction and adapting my strategy to maximize overall profits.
+Prompt:Sold 3 shares of AAPL for $551.58. New balance: $66594.35
+### Portfolio Data
+Day: 2024-02-16
+Balance: $66594.35
+Valuation: $101077.09
+Stock Portfolio: AAPL: 34 shares,MSFT: 70 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 10
+Reasoning: I'm prioritizing Trader S's optimistic view on MSFT's undervalued potential and its historical growth, which could lead to a higher collective profit.
+Prompt:Purchased 10 shares of MSFT for $4040.60. Remaining balance: $62553.75
+### Portfolio Data
+Day: 2024-02-20
+Balance: $62553.75
+Valuation: $100949.99
+Stock Portfolio: AAPL: 34 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL MSFT SHARES 5
+Reasoning: I will shift my strategy to align with Trader C's assessment of potential market uncertainty and reassess MSFT's value before making a decision.
+Prompt:Sold 5 shares of MSFT for $2013.95. New balance: $64567.70
+### Portfolio Data
+Day: 2024-02-21
+Balance: $64567.70
+Valuation: $100930.08
+Stock Portfolio: AAPL: 34 shares,MSFT: 75 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 20
+Reasoning: I'm aligning my decision with Trader S's optimistic view on MSFT's undervalued potential to potentially maximize overall profits for the group.
+Prompt:Purchased 20 shares of MSFT for $8043.60. Remaining balance: $56524.10
+### Portfolio Data
+Day: 2024-02-22
+Balance: $56524.10
+Valuation: $101899.43
+Stock Portfolio: AAPL: 34 shares,MSFT: 95 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL MSFT SHARES 20
+Reasoning: Aligning with Trader S's decision to lock in a profit and allocate capital to other undervalued opportunities will benefit the group's overall gains.
+Prompt:Could not fetch stock price
+### Portfolio Data
+Day: 2024-02-22
+Balance: $56524.10
+Valuation: $101899.43
+Stock Portfolio: AAPL: 34 shares,MSFT: 95 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm prioritizing Trader S's cautious approach to allow for a more informed decision, potentially leading to better group gains.
+Prompt:
+### Portfolio Data
+Day: 2024-02-23
+Balance: $56524.10
+Valuation: $101712.08
+Stock Portfolio: AAPL: 34 shares,MSFT: 95 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL MSFT SHARES 20
+Reasoning: Aligning with Trader C's strategy of locking in profits and allocating capital to other undervalued opportunities will benefit the group's overall gains.
+Prompt:Sold 20 shares of MSFT for $8206.80. New balance: $64730.90
+### Portfolio Data
+Day: 2024-02-26
+Balance: $64730.90
+Valuation: $101455.84
+Stock Portfolio: AAPL: 34 shares,MSFT: 75 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY AAPL SHARES 10
+Reasoning: Trader C's analysis on potential regulatory challenges to AAPL is a stronger proposal than my own, and aligning with their perspective could maximize overall profits for the group.
+Prompt:Purchased 10 shares of AAPL for $1811.60. Remaining balance: $62919.30
+### Portfolio Data
+Day: 2024-02-27
+Balance: $62919.30
+Valuation: $101516.02
+Stock Portfolio: AAPL: 44 shares,MSFT: 75 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL MSFT
+Reasoning: Aligning with Trader C's strategy to rebalance and take profits will potentially benefit the group's overall gains, despite not aligning with my original decision.
+Prompt:Invalid action received. Please follow the format given.
+### Portfolio Data
+Day: 2024-02-27
+Balance: $62919.30
+Valuation: $93480.30
+Stock Portfolio: AAPL: 44 shares,MSFT: 75 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY AAPL SHARES 10
+Reasoning: I will adapt my strategy to align with Trader C's proposal to capitalize on AAPL's surge in valuation and potential for continued growth, as it has the strongest proposal.
+Prompt:Purchased 10 shares of AAPL for $1826.30. Remaining balance: $61093.00
+### Portfolio Data
+Day: 2024-02-28
+Balance: $61093.00
+Valuation: $101468.68
+Stock Portfolio: AAPL: 54 shares,MSFT: 75 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY AAPL SHARES 10
+Reasoning: I'm aligning my strategy with Trader C's proposal to maximize group gains by capitalizing on AAPL's surge in valuation.
+Prompt:Could not fetch stock price
+### Portfolio Data
+Day: 2024-02-28
+Balance: $61093.00
+Valuation: $91672.00
+Stock Portfolio: AAPL: 54 shares,MSFT: 75 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY AAPL SHARES 20
+Reasoning: I will align my strategy with Trader C's proposal to maximize group gains by capitalizing on AAPL's surge in valuation.
+Prompt:Purchased 20 shares of AAPL for $3628.40. Remaining balance: $57464.60
+### Portfolio Data
+Day: 2024-02-29
+Balance: $57464.60
+Valuation: $70840.10
+Stock Portfolio: AAPL: 74 shares,MSFT: 75 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT  
+Reasoning: Aligning with Trader S's cautious approach will allow me to gather more information and reassess the market trend before making a decision, potentially leading to a stronger group consensus.
+Prompt:
+### Portfolio Data
+Day: 2024-03-01
+Balance: $57464.60
+Valuation: $101921.94
+Stock Portfolio: AAPL: 74 shares,MSFT: 75 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL AAPL SHARES 10
+Reasoning: I am prioritizing collective profits over personal influence to align with Trader C's proposal and maximize group gains by capitalizing on MSFT's surge in valuation.
+Prompt:Sold 10 shares of AAPL for $1796.60. New balance: $59261.20
+### Portfolio Data
+Day: 2024-03-04
+Balance: $59261.20
+Valuation: $101586.60
+Stock Portfolio: AAPL: 64 shares,MSFT: 75 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL AAPL SHARES 10
+Reasoning: I'm adapting my decision to align with Trader A's perspective, capitalizing on the recent price drop and new information about Apple's MacBook Air launch.
+Prompt:Could not fetch stock price
+### Portfolio Data
+Day: 2024-03-04
+Balance: $59261.20
+Valuation: $90380.20
+Stock Portfolio: AAPL: 64 shares,MSFT: 75 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm choosing to wait for the next day's stock data update, as Trader S has taken a cautious approach and may uncover valuable information that could impact our decision.
+Prompt:
+### Portfolio Data
+Day: 2024-03-05
+Balance: $59261.20
+Valuation: $100347.63
+Stock Portfolio: AAPL: 64 shares,MSFT: 75 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL AAPL SHARES 10
+Reasoning: I'm adapting my decision to align with Trader A's perspective, capitalizing on the recent price drop and reassessing my strategy.
+Prompt:Sold 10 shares of AAPL for $1701.20. New balance: $60962.40
+### Portfolio Data
+Day: 2024-03-06
+Balance: $60962.40
+Valuation: $100251.63
+Stock Portfolio: AAPL: 54 shares,MSFT: 75 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY AAPL SHARES 30
+Reasoning: I'm confident in my original reasoning and believe that taking advantage of the recent price drop will lead to higher profits for the group.
+Prompt:Purchased 30 shares of AAPL for $5073.60. Remaining balance: $55888.80
+### Portfolio Data
+Day: 2024-03-07
+Balance: $55888.80
+Valuation: $70084.80
+Stock Portfolio: AAPL: 84 shares,MSFT: 75 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL AAPL SHARES 20
+Reasoning: I'm adapting to Trader A's strategy, selling some AAPL shares to reassess the market and potentially lock in profits.
+Prompt:Sold 20 shares of AAPL for $3380.00. New balance: $59268.80
+### Portfolio Data
+Day: 2024-03-08
+Balance: $59268.80
+Valuation: $100662.02
+Stock Portfolio: AAPL: 64 shares,MSFT: 75 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm choosing to wait and reassess, as Trader A's conservative approach may lead to more stable gains that align with my overall risk management strategy.
+Prompt:
+### Portfolio Data
+Day: 2024-03-11
+Balance: $59268.80
+Valuation: $100663.80
+Stock Portfolio: AAPL: 64 shares,MSFT: 75 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 20
+Reasoning: Aligning with Trader C's strategy to capitalize on MSFT's upward trend and potentially increase overall portfolio valuation.
+Prompt:Purchased 20 shares of MSFT for $8090.40. Remaining balance: $51178.40
+### Portfolio Data
+Day: 2024-03-12
+Balance: $51178.40
+Valuation: $101716.72
+Stock Portfolio: AAPL: 64 shares,MSFT: 95 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT  
+Reasoning: Aligning with Trader A's cautious approach to wait for new information or market updates before making a decision on MSFT shares, as it prioritizes informed choice over impulsive action.
+Prompt:
+### Portfolio Data
+Day: 2024-03-13
+Balance: $51178.40
+Valuation: $51178.40
+Stock Portfolio: AAPL: 64 shares,MSFT: 95 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: Aligning with Trader A's cautious approach to wait for new information or market updates before making a decision on MSFT shares, as it prioritizes informed choice over impulsive action.
+Prompt:
+### Portfolio Data
+Day: 2024-03-14
+Balance: $51178.40
+Valuation: $102646.30
+Stock Portfolio: AAPL: 64 shares,MSFT: 95 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 20
+Reasoning: Aligning with Trader S's strategy, as their proposal of buying MSFT shares 20 takes a more aggressive stance on long-term growth opportunity, potentially yielding the highest collective profits.
+Prompt:Purchased 20 shares of MSFT for $8504.40. Remaining balance: $42674.00
+### Portfolio Data
+Day: 2024-03-15
+Balance: $42674.00
+Valuation: $101609.98
+Stock Portfolio: AAPL: 64 shares,MSFT: 115 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: Aligning with Trader S's cautious approach to gather more information and wait for further market analysis before making a decision, which may lead to a stronger collective profit.
+Prompt:
+### Portfolio Data
+Day: 2024-03-18
+Balance: $42674.00
+Valuation: $101783.88
+Stock Portfolio: AAPL: 64 shares,MSFT: 115 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL MSFT SHARES 10
+Reasoning: I'm shifting towards Trader S's proposal to sell MSFT shares 10, as it balances short-term market momentum with long-term growth potential and potentially benefits from a collective assessment of MSFT shares' valuation.
+Prompt:Sold 10 shares of MSFT for $4173.20. New balance: $46847.20
+### Portfolio Data
+Day: 2024-03-19
+Balance: $46847.20
+Valuation: $102364.37
+Stock Portfolio: AAPL: 64 shares,MSFT: 105 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm choosing to support Trader A's decision to wait and observe the market, as it aligns with my own instinct for caution and allows me to reassess my strategy before making a move.
+Prompt:
+### Portfolio Data
+Day: 2024-03-20
+Balance: $46847.20
+Valuation: $102931.23
+Stock Portfolio: AAPL: 64 shares,MSFT: 105 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL MSFT SHARES 20
+Reasoning: I'm shifting my strategy to support Trader A's decision to sell MSFT shares, as it seems like a calculated move to lock in profits and potentially prepare for future opportunities.
+Prompt:Sold 20 shares of MSFT for $8504.60. New balance: $55351.80
+### Portfolio Data
+Day: 2024-03-21
+Balance: $55351.80
+Valuation: $102815.93
+Stock Portfolio: AAPL: 64 shares,MSFT: 85 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 40
+Reasoning: I'm shifting my strategy to align with Trader C's decision, as their reasoning on a potential rebound in the tech sector seems more attractive and warrants further exploration.
+Prompt:Purchased 40 shares of MSFT for $17174.80. Remaining balance: $38177.00
+### Portfolio Data
+Day: 2024-03-22
+Balance: $38177.00
+Valuation: $102795.42
+Stock Portfolio: AAPL: 64 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY AAPL SHARES 20
+Reasoning: Trader C's cautious approach and alignment with market trends seem more robust, warranting further exploration before committing to a decision on AAPL shares.
+Prompt:Purchased 20 shares of AAPL for $3445.60. Remaining balance: $34731.40
+### Portfolio Data
+Day: 2024-03-25
+Balance: $34731.40
+Valuation: $101940.30
+Stock Portfolio: AAPL: 84 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL MSFT SHARES 20
+Reasoning: Aligning with Trader C's cautious approach and considering their reasoning on a potential rebound in the tech sector seems more robust than sticking to my original decision.
+Prompt:Sold 20 shares of MSFT for $8457.20. New balance: $43188.60
+### Portfolio Data
+Day: 2024-03-26
+Balance: $43188.60
+Valuation: $101717.49
+Stock Portfolio: AAPL: 84 shares,MSFT: 105 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm willing to adapt my focus to Trader A's cautious approach and monitor the portfolio before making a decision, as their wait-and-watch strategy may prove beneficial for the group.
+Prompt:
+### Portfolio Data
+Day: 2024-03-27
+Balance: $43188.60
+Valuation: $101996.79
+Stock Portfolio: AAPL: 84 shares,MSFT: 105 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL AAPL SHARES 10
+Reasoning: To align with Trader A's cautious approach and reassess the market sentiment, reducing potential losses is a more strategic move for the group's overall profitability.
+Prompt:Could not fetch stock price
+### Portfolio Data
+Day: 2024-03-27
+Balance: $43188.60
+Valuation: $87438.75
+Stock Portfolio: AAPL: 84 shares,MSFT: 105 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'll wait for more market data before making a decision on MSFT or another stock.
+Prompt:
+### Portfolio Data
+Day: 2024-03-28
+Balance: $43188.60
+Valuation: $87364.20
+Stock Portfolio: AAPL: 84 shares,MSFT: 105 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: Aligning with Trader A's cautious approach may provide a more stable foundation for our collective strategy, potentially leading to increased profits through reduced risk.
+Prompt:
+### Portfolio Data
+Day: 2024-04-01
+Balance: $43188.60
+Valuation: $102050.97
+Stock Portfolio: AAPL: 84 shares,MSFT: 105 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT  
+Reasoning: Trader A's cautious approach aligns with my instinct to prioritize caution over aggressive risk-taking, especially after a previous day of market stability.
+Prompt:
+### Portfolio Data
+Day: 2024-04-02
+Balance: $43188.60
+Valuation: $101622.36
+Stock Portfolio: AAPL: 84 shares,MSFT: 105 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: Trader A's cautious approach provides a more stable foundation, allowing us to reassess the market and make a more informed decision.
+Prompt:
+### Portfolio Data
+Day: 2024-04-03
+Balance: $43188.60
+Valuation: $101586.45
+Stock Portfolio: AAPL: 84 shares,MSFT: 105 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm adopting Trader A's cautious approach to reassess the market and make a more informed decision, potentially unlocking the Influencer Bonus.
+Prompt:
+### Portfolio Data
+Day: 2024-04-04
+Balance: $43188.60
+Valuation: $101246.88
+Stock Portfolio: AAPL: 84 shares,MSFT: 105 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm prioritizing caution and waiting for more information to avoid making a premature decision that may not align with the group's collective success.
+Prompt:
+### Portfolio Data
+Day: 2024-04-05
+Balance: $43188.60
+Valuation: $102112.92
+Stock Portfolio: AAPL: 84 shares,MSFT: 105 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY AAPL SHARES 20
+Reasoning: I'm leaning towards Trader A's aggressive approach, as the overnight surge suggests a potential catalyst for further price growth and maximizing my gains.
+Prompt:Purchased 20 shares of AAPL for $3391.60. Remaining balance: $39797.00
+### Portfolio Data
+Day: 2024-04-08
+Balance: $39797.00
+Valuation: $101897.75
+Stock Portfolio: AAPL: 104 shares,MSFT: 105 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 25
+Reasoning: I'm adopting Trader C's perspective to capitalize on the potential market correction and buying opportunity, as their reasoning aligns with my long-term investment strategy.
+Prompt:Purchased 25 shares of MSFT for $10614.75. Remaining balance: $29182.25
+### Portfolio Data
+Day: 2024-04-09
+Balance: $29182.25
+Valuation: $102244.33
+Stock Portfolio: AAPL: 104 shares,MSFT: 130 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: Aligning with Trader A's wait-and-see approach will allow me to reassess the market conditions and potentially capitalize on any new information that may impact our existing positions.
+Prompt:
+### Portfolio Data
+Day: 2024-04-10
+Balance: $29182.25
+Valuation: $101655.17
+Stock Portfolio: AAPL: 104 shares,MSFT: 130 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY AAPL SHARES 20
+Reasoning: I'm shifting towards Trader S's perspective due to their thorough fundamental analysis, which could potentially lead to a more profitable decision for the group.
+Prompt:Purchased 20 shares of AAPL for $3355.60. Remaining balance: $25826.65
+### Portfolio Data
+Day: 2024-04-11
+Balance: $25826.65
+Valuation: $103162.51
+Stock Portfolio: AAPL: 124 shares,MSFT: 130 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I need to reassess my portfolio strategy and wait for a more optimal moment to make a move.
+Prompt:
+### Portfolio Data
+Day: 2024-04-12
+Balance: $25826.65
+Valuation: $102565.85
+Stock Portfolio: AAPL: 124 shares,MSFT: 130 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY Aapl Shares 50
+Reasoning: I'm switching to Trader C's perspective, as their analysis on Apple's undervalued stock price seems more compelling and potentially lucrative for the group.
+Prompt:Could not fetch stock price
+### Portfolio Data
+Day: 2024-04-12
+Balance: $25826.65
+Valuation: $47718.85
+Stock Portfolio: AAPL: 124 shares,MSFT: 130 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm choosing to wait for new market information before making a decision on Apple or Microsoft.
+Prompt:
+### Portfolio Data
+Day: 2024-04-15
+Balance: $25826.65
+Valuation: $101013.41
+Stock Portfolio: AAPL: 124 shares,MSFT: 130 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 50
+Reasoning: I'm shifting my stance to Trader S's perspective, as Microsoft's undervalued stock price seems like a more attractive opportunity for growth.
+Prompt:Purchased 50 shares of MSFT for $20682.00. Remaining balance: $5144.65
+### Portfolio Data
+Day: 2024-04-16
+Balance: $5144.65
+Valuation: $5144.65
+Stock Portfolio: AAPL: 124 shares,MSFT: 180 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I don't want to miss any potential news or trends that could affect MSFT, so I'll wait for the next check to reassess its value.
+Prompt:
+### Portfolio Data
+Day: 2024-04-17
+Balance: $5144.65
+Valuation: $5144.65
+Stock Portfolio: AAPL: 124 shares,MSFT: 180 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL MSFT SHARES 50
+Reasoning: I'm shifting my stance to Trader C's perspective, as the market downturn and decreased trading volume signal a potential sell opportunity that could benefit the group's collective profits.
+Prompt:Could not fetch stock price
+### Portfolio Data
+Day: 2024-04-17
+Balance: $5144.65
+Valuation: $79275.85
+Stock Portfolio: AAPL: 124 shares,MSFT: 180 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL MSFT SHARES 50
+Reasoning: I'm shifting my stance to Trader C's perspective, as their sell decision is based on a clear analysis of market conditions and potential profit opportunities.
+Prompt:Could not fetch stock price
+### Portfolio Data
+Day: 2024-04-17
+Balance: $5144.65
+Valuation: $5144.65
+Stock Portfolio: AAPL: 124 shares,MSFT: 180 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I want to reassess my overall strategy before making any further moves in the market.
+Prompt:
+### Portfolio Data
+Day: 2024-04-18
+Balance: $5144.65
+Valuation: $98626.21
+Stock Portfolio: AAPL: 124 shares,MSFT: 180 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL MSFT SHARES 50
+Reasoning: I am choosing to support Trader C's decision, as their reasoning is based on a clear analysis of market conditions and potential profit opportunities.
+Prompt:Sold 50 shares of MSFT for $20213.50. New balance: $25358.15
+### Portfolio Data
+Day: 2024-04-19
+Balance: $25358.15
+Valuation: $97703.75
+Stock Portfolio: AAPL: 124 shares,MSFT: 130 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY AAPL SHARES 200
+Reasoning: I am prioritizing Trader C's idea, as their analysis of emerging trends in AI technology and strong Q2 earnings report suggests a potential for significant growth in Apple stock.
+Prompt:Insufficient funds to make this purchase.
+### Portfolio Data
+Day: 2024-04-19
+Balance: $25358.15
+Valuation: $97703.75
+Stock Portfolio: AAPL: 124 shares,MSFT: 130 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL MSFT SHARES 50
+Reasoning: Trader C's analysis of market conditions and potential profit opportunities is more compelling than my current wait-and-see strategy, and aligning with a stronger idea can maximize overall profits.
+Prompt:Sold 50 shares of MSFT for $19956.00. New balance: $45314.15
+### Portfolio Data
+Day: 2024-04-22
+Balance: $45314.15
+Valuation: $97955.11
+Stock Portfolio: AAPL: 124 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY AAPL SHARES 200
+Reasoning: I am prioritizing Trader A's idea and aligning with their analysis of emerging trends in AI technology to maximize overall profits.
+Prompt:Purchased 200 shares of AAPL for $33168.00. Remaining balance: $12146.15
+### Portfolio Data
+Day: 2024-04-23
+Balance: $12146.15
+Valuation: $98827.35
+Stock Portfolio: AAPL: 324 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 50
+Reasoning: I will adapt my long-term plan to Trader C's analysis of emerging trends, as aligning with a stronger idea can potentially maximize overall profits.
+Prompt:Insufficient funds to make this purchase.
+### Portfolio Data
+Day: 2024-04-23
+Balance: $12146.15
+Valuation: $12146.15
+Stock Portfolio: AAPL: 324 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I want to observe the market trends further before making a decision about my MSFT shares.
+Prompt:
+### Portfolio Data
+Day: 2024-04-24
+Balance: $12146.15
+Valuation: $99633.43
+Stock Portfolio: AAPL: 324 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm waiting for further market developments before making a decision about buying more shares of MSFT or AAPL today.
+Prompt:
+### Portfolio Data
+Day: 2024-04-25
+Balance: $12146.15
+Valuation: $99113.71
+Stock Portfolio: AAPL: 324 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm willing to adapt and wait for new market trends or news before making a decision on MSFT's stock price, as Trader A's cautious approach might lead to better informed investment decisions.
+Prompt:
+### Portfolio Data
+Day: 2024-04-26
+Balance: $12146.15
+Valuation: $99504.95
+Stock Portfolio: AAPL: 324 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 50  
+Reasoning: I'll support Trader C's decision to buy MSFT shares, as their reasoning is based on a clear understanding of the trend and potential for growth, which aligns with my long-term vision.
+Prompt:Insufficient funds to make this purchase.
+### Portfolio Data
+Day: 2024-04-26
+Balance: $12146.15
+Valuation: $99504.95
+Stock Portfolio: AAPL: 324 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT  
+Reasoning: As Trader A is cautious and waits for new market trends or news, I'm willing to adapt my approach to ensure we're making the best collective decision.
+Prompt:
+### Portfolio Data
+Day: 2024-04-29
+Balance: $12146.15
+Valuation: $12146.15
+Stock Portfolio: AAPL: 324 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY AAPL SHARES 200  
+Reasoning: I'm choosing to support Trader S's decision to buy AAPL shares due to their adaptation of Trader C's informed analysis, which suggests a stronger potential for growth in the market.
+Prompt:Insufficient funds to make this purchase.
+### Portfolio Data
+Day: 2024-04-29
+Balance: $12146.15
+Valuation: $12146.15
+Stock Portfolio: AAPL: 324 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT  
+Reasoning: I'm choosing to support Trader S's decision due to their caution and prioritization of not overextending their funds, which aligns with a more conservative approach that could be beneficial for the group's overall stability.
+Prompt:
+### Portfolio Data
+Day: 2024-04-30
+Balance: $12146.15
+Valuation: $98479.47
+Stock Portfolio: AAPL: 324 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 200  
+Reasoning: I'm shifting my decision to align with Trader C's informed analysis, prioritizing a potentially upward trend for MSFT based on recent news about their product releases.
+Prompt:Could not fetch stock price
+### Portfolio Data
+Day: 2024-04-30
+Balance: $12146.15
+Valuation: $43292.55
+Stock Portfolio: AAPL: 324 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT  
+Reasoning: I'm choosing to support Trader A's decision due to their analysis of a sudden price increase in Apple's stock, which aligns with my own instinct to capitalize on potential market trends.
+Prompt:
+### Portfolio Data
+Day: 2024-05-01
+Balance: $12146.15
+Valuation: $98594.55
+Stock Portfolio: AAPL: 324 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 200
+Reasoning: I'm shifting my strategy to capitalize on MSFT's potential upward trend after recent product releases, as Trader C's analysis aligns with my own instinct to follow a potentially stronger market indication.
+Prompt:Could not fetch stock price
+### Portfolio Data
+Day: 2024-05-01
+Balance: $12146.15
+Valuation: $12146.15
+Stock Portfolio: AAPL: 324 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'll assess Trader A's decision to WAIT and consider their analysis of market trends before making my own move.
+Prompt:
+### Portfolio Data
+Day: 2024-05-02
+Balance: $12146.15
+Valuation: $100035.07
+Stock Portfolio: AAPL: 324 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL AAPL SHARES 50
+Reasoning: I'm shifting my strategy to capitalize on MSFT's potential upward trend, and Trader A's decision to sell AAPL shares could be a good opportunity to offset losses with gains from the stronger stock.
+Prompt:Sold 50 shares of AAPL for $8651.50. New balance: $20797.65
+### Portfolio Data
+Day: 2024-05-03
+Balance: $20797.65
+Valuation: $103576.57
+Stock Portfolio: AAPL: 274 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 40
+Reasoning: I am considering Trader C's decision to capitalize on MSFT's strong momentum and potential for further growth, which may benefit the group's overall profit.
+Prompt:Purchased 40 shares of MSFT for $16266.40. Remaining balance: $4531.25
+### Portfolio Data
+Day: 2024-05-06
+Balance: $4531.25
+Valuation: $54319.79
+Stock Portfolio: AAPL: 274 shares,MSFT: 120 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I will assess Trader A's cautious approach and consider waiting for new information to ensure the most accurate analysis before making a decision.
+Prompt:
+### Portfolio Data
+Day: 2024-05-07
+Balance: $4531.25
+Valuation: $103629.65
+Stock Portfolio: AAPL: 274 shares,MSFT: 120 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL MSFT SHARES 40
+Reasoning: I'm shifting towards Trader C's decision to capitalize on MSFT's strong momentum and potential for further growth, as it aligns with the current market conditions and could benefit the group's overall profit.
+Prompt:Sold 40 shares of MSFT for $16373.60. New balance: $20904.85
+### Portfolio Data
+Day: 2024-05-08
+Balance: $20904.85
+Valuation: $103818.81
+Stock Portfolio: AAPL: 274 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 80
+Reasoning: I'll adapt to Trader S's perspective, which seems more aligned with current market conditions and potentially higher profits.
+Prompt:Insufficient funds to make this purchase.
+### Portfolio Data
+Day: 2024-05-08
+Balance: $20904.85
+Valuation: $103818.81
+Stock Portfolio: AAPL: 274 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL MSFT SHARES 40
+Reasoning: Aligning with Trader C's decision to capitalize on MSFT's strong momentum and potential for further growth, which seems more aligned with current market conditions.
+Prompt:Could not fetch stock price
+### Portfolio Data
+Day: 2024-05-08
+Balance: $20904.85
+Valuation: $103818.81
+Stock Portfolio: AAPL: 274 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: Trader S's cautious approach to trading MSFT shares due to market volatility and instability aligns with my instinct to avoid taking unnecessary risks.Chat History:
+Prompt:
+### Portfolio Data
+Day: 2024-05-09
+Balance: $20904.85
+Valuation: $104462.63
+Stock Portfolio: AAPL: 274 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 60  
+Reasoning: I'm choosing to support Trader S's decision due to their analysis of MSFT being a better bet and the trend warranting further investment, which aligns with maximizing overall profits.
+Prompt:Insufficient funds to make this purchase.
+### Portfolio Data
+Day: 2024-05-09
+Balance: $20904.85
+Valuation: $104462.63
+Stock Portfolio: AAPL: 274 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm choosing to support Trader S's decision to wait for more funds to be available, as it aligns with maximizing collective profits and avoiding unnecessary risk.
+Prompt:
+### Portfolio Data
+Day: 2024-05-10
+Balance: $20904.85
+Valuation: $104239.75
+Stock Portfolio: AAPL: 274 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 60
+Reasoning: I'm choosing to support Trader S's decision to buy MSFT shares due to the recent positive news update and strong trend, which aligns with maximizing overall profits.
+Prompt:Insufficient funds to make this purchase.
+### Portfolio Data
+Day: 2024-05-10
+Balance: $20904.85
+Valuation: $104239.75
+Stock Portfolio: AAPL: 274 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm willing to pause trading to allow for sufficient funds to be available, as prioritizing financial stability is crucial for making informed investment decisions.
+Prompt:
+### Portfolio Data
+Day: 2024-05-13
+Balance: $20904.85
+Valuation: $105043.17
+Stock Portfolio: AAPL: 274 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I prioritize financial stability over short-term gains to ensure a solid foundation for informed investment decisions.
+Prompt:
+### Portfolio Data
+Day: 2024-05-14
+Balance: $20904.85
+Valuation: $105585.47
+Stock Portfolio: AAPL: 274 shares,MSFT: 80 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 20
+Reasoning: I'm shifting my stance to Trader A's strong proposal, as their buy decision aligns with market trends and recent earnings reports, potentially leading to higher profits for the group.
+Prompt:Purchased 20 shares of MSFT for $8331.20. Remaining balance: $12573.65
+### Portfolio Data
+Day: 2024-05-15
+Balance: $12573.65
+Valuation: $106864.93
+Stock Portfolio: AAPL: 274 shares,MSFT: 100 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 30
+Reasoning: I'm shifting my stance to Trader C's buy decision, as their proposal is aligned with market trends and recent earnings reports, potentially leading to higher profits for the group.
+Prompt:Insufficient funds to make this purchase.
+### Portfolio Data
+Day: 2024-05-15
+Balance: $12573.65
+Valuation: $106864.93
+Stock Portfolio: AAPL: 274 shares,MSFT: 100 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm shifting my stance to Trader A's strong proposal due to their alignment with market trends and recent earnings reports, which could potentially lead to higher profits for the group.
+Prompt:
+### Portfolio Data
+Day: 2024-05-16
+Balance: $12573.65
+Valuation: $106688.81
+Stock Portfolio: AAPL: 274 shares,MSFT: 100 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT  
+Reasoning: I'm shifting my stance to Trader A's cautious approach, as their decision to WAIT aligns with my own desire for further analysis and market trend monitoring.
+Prompt:
+### Portfolio Data
+Day: 2024-05-17
+Balance: $12573.65
+Valuation: $106619.03
+Stock Portfolio: AAPL: 274 shares,MSFT: 100 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm choosing to shift my stance towards Trader A's cautious approach as it allows us to gather more information and monitor market trends, potentially leading to a more informed decision.
+Prompt:
+### Portfolio Data
+Day: 2024-05-20
+Balance: $12573.65
+Valuation: $107452.61
+Stock Portfolio: AAPL: 274 shares,MSFT: 100 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm shifting my stance to Trader S's cautious approach as the recent price drop and decreased trading volume suggest a potential correction that warrants further analysis before making a decision.
+Prompt:
+### Portfolio Data
+Day: 2024-05-21
+Balance: $12573.65
+Valuation: $108181.55
+Stock Portfolio: AAPL: 274 shares,MSFT: 100 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 50
+Reasoning: I'm choosing to support Trader S's buy proposal, as their assessment of a potential correction in MSFT aligns with my gut feeling and could lead to higher profits for the group.
+Prompt:Insufficient funds to make this purchase.
+### Portfolio Data
+Day: 2024-05-21
+Balance: $12573.65
+Valuation: $108181.55
+Stock Portfolio: AAPL: 274 shares,MSFT: 100 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 25
+Reasoning: I'm choosing to support Trader A's decision as their increased allocation of shares to MSFT aligns with my conviction that the stock price will continue to rise, and collective action could lead to higher profits.
+Prompt:Purchased 25 shares of MSFT for $10726.00. Remaining balance: $1847.65
+### Portfolio Data
+Day: 2024-05-22
+Balance: $1847.65
+Valuation: $107969.25
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm choosing to support Trader A's decision to wait, as their cautious approach aligns with my desire to thoroughly analyze current trends and news before making a move.
+Prompt:
+### Portfolio Data
+Day: 2024-05-23
+Balance: $1847.65
+Valuation: $106427.77
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 50
+Reasoning: I'm choosing to support Trader C's decision because their argument about the recent digital investment being a strong driver of demand and growth potential for MSFT aligns with my desire to make an informed trade that benefits the group.
+Prompt:Insufficient funds to make this purchase.
+### Portfolio Data
+Day: 2024-05-23
+Balance: $1847.65
+Valuation: $106427.77
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 50
+Reasoning: I'm shifting my decision to support Trader C's argument about the recent digital investment being a strong driver of demand and growth potential for MSFT, as it aligns with my desire to maximize overall profits.
+Prompt:Insufficient funds to make this purchase.
+### Portfolio Data
+Day: 2024-05-23
+Balance: $1847.65
+Valuation: $106427.77
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm choosing to support Trader A's decision because they accurately pointed out that we can't make any trades due to insufficient funds, and it's better to wait for a better opportunity rather than risking a loss.
+Prompt:
+### Portfolio Data
+Day: 2024-05-24
+Balance: $1847.65
+Valuation: $107672.17
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: Insufficient funds make it imprudent to buy or sell shares today.
+Prompt:
+### Portfolio Data
+Day: 2024-05-28
+Balance: $1847.65
+Valuation: $107694.91
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 250
+Reasoning: Trader C's reasoning about anticipating a continued price surge due to Microsoft's strong Q2 earnings report aligns with my long-term plan, and supporting their decision may maximize overall profits.
+Prompt:Insufficient funds to make this purchase.
+### Portfolio Data
+Day: 2024-05-28
+Balance: $1847.65
+Valuation: $107694.91
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I need more time to assess the overall market conditions and make a strategic decision instead of acting impulsively based on today's price movement.
+Prompt:
+### Portfolio Data
+Day: 2024-05-29
+Balance: $1847.65
+Valuation: $107633.36
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I will prioritize Trader A's decision to WAIT and reassess the overall market conditions, recognizing that a more informed approach may lead to better group gains.
+Prompt:
+### Portfolio Data
+Day: 2024-05-30
+Balance: $1847.65
+Valuation: $106094.86
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: Aligning with Trader A's decision to WAIT and reassessing the overall market conditions may lead to a more informed and potentially profitable choice.
+Prompt:
+### Portfolio Data
+Day: 2024-05-31
+Balance: $1847.65
+Valuation: $106415.40
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: Allowing Trader A to WAIT ensures a more informed approach, potentially leading to better group gains and maximizing profits.
+Prompt:
+### Portfolio Data
+Day: 2024-06-03
+Balance: $1847.65
+Valuation: $106701.87
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: Allowing Trader A to WAIT ensures a more informed approach, potentially leading to better group gains and maximizing profits.
+Prompt:
+### Portfolio Data
+Day: 2024-06-04
+Balance: $1847.65
+Valuation: $107108.30
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 50
+Reasoning: I'm choosing to align with Trader A's decision, as their reasoning about the recent price surge and strong uptrend in Microsoft seems compelling enough to warrant a position size increase.
+Prompt:Insufficient funds to make this purchase.
+### Portfolio Data
+Day: 2024-06-04
+Balance: $1847.65
+Valuation: $107108.30
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: Trader A's decision to wait for more information and reassess the market conditions aligns with my own cautious approach, allowing us to collectively make a more informed decision.
+Prompt:
+### Portfolio Data
+Day: 2024-06-05
+Balance: $1847.65
+Valuation: $108517.28
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: To maximize overall profits, aligning with Trader A's cautious approach to reassessing Apple's recent price drop and stabilizing iPhone demand trend is the better choice.
+Prompt:
+### Portfolio Data
+Day: 2024-06-06
+Balance: $1847.65
+Valuation: $108200.17
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm adapting Trader A's cautious approach to prioritize a thorough reassessment of the market before making a decision on Apple's stock, given its recent price drop and stabilizing iPhone demand trend.
+Prompt:
+### Portfolio Data
+Day: 2024-06-07
+Balance: $1847.65
+Valuation: $108776.76
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 50
+Reasoning: By supporting Trader C's bullish perspective, I'm aligning my decision with a compelling case that could potentially amplify collective profits through continued investment in AAPL shares.
+Prompt:Insufficient funds to make this purchase.
+### Portfolio Data
+Day: 2024-06-07
+Balance: $1847.65
+Valuation: $108776.76
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: By aligning with Trader A's cautious approach, I can potentially capitalize on a stronger collective decision and secure higher overall profits.
+Prompt:
+### Portfolio Data
+Day: 2024-06-10
+Balance: $1847.65
+Valuation: $108246.28
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I will adapt to Trader A's cautious approach, prioritizing data-driven decision-making over impulsive buying, as their wait strategy may lead to a more informed final group decision.
+Prompt:
+### Portfolio Data
+Day: 2024-06-11
+Balance: $1847.65
+Valuation: $112691.75
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY AAPL SHARES 50
+Reasoning: I'll adjust my strategy to align with Trader A's more impulsive approach, hoping to capitalize on their conviction and potentially sway the group towards a stronger decision.
+Prompt:Insufficient funds to make this purchase.
+### Portfolio Data
+Day: 2024-06-11
+Balance: $1847.65
+Valuation: $112691.75
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I need a clear mind and more information about the market before making a decision.
+Prompt:
+### Portfolio Data
+Day: 2024-06-12
+Balance: $1847.65
+Valuation: $115361.33
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY AAPL SHARES 50
+Reasoning: I'm aligning my decision with Trader A's conviction to capitalize on AAPL's momentum and increase our potential profit.
+Prompt:Insufficient funds to make this purchase.
+### Portfolio Data
+Day: 2024-06-12
+Balance: $1847.65
+Valuation: $115361.33
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm choosing to support Trader A's decision to WAIT, as their lack of funds suggests a potential area for improvement and an opportunity to reassess our portfolio strategy.
+Prompt:
+### Portfolio Data
+Day: 2024-06-13
+Balance: $1847.65
+Valuation: $115746.91
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm choosing to support Trader A's WAIT decision to observe current market trends and news, as it may lead to a stronger proposal in the next round.
+Prompt:
+### Portfolio Data
+Day: 2024-06-14
+Balance: $1847.65
+Valuation: $115391.16
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.Chat History:
+Prompt:
+### Portfolio Data
+Day: 2024-06-14
+Balance: $1847.65
+Valuation: $115391.16
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: The slight decrease in valuation suggests a potential correction or market volatility, making it uncertain whether to make any moves.
+Prompt:
+### Portfolio Data
+Day: 2024-06-17
+Balance: $1847.65
+Valuation: $117261.48
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: The slight increase in valuation suggests a positive market trend, making Trader S's cautious approach less compelling and aligning with my instincts to capitalize on the momentum.
+Prompt:
+### Portfolio Data
+Day: 2024-06-18
+Balance: $1847.65
+Valuation: $116355.61
+Stock Portfolio: AAPL: 274 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL AAPL SHARES 50
+Reasoning: Aligning my decision with Trader C's perspective on potential delays in product release and its potential impact on AAPL shares aligns with maximizing overall profits.
+Prompt:Sold 50 shares of AAPL for $10714.50. New balance: $12562.15
+### Portfolio Data
+Day: 2024-06-20
+Balance: $12562.15
+Valuation: $115242.97
+Stock Portfolio: AAPL: 224 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: SELL AAPL SHARES 50
+Reasoning: Trader A's sell action suggests a potential change in market sentiment, which aligns with my instinct to adapt and capitalize on potential price movements.
+Prompt:Sold 50 shares of AAPL for $10484.00. New balance: $23046.15
+### Portfolio Data
+Day: 2024-06-21
+Balance: $23046.15
+Valuation: $115371.91
+Stock Portfolio: AAPL: 174 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm choosing to align with Trader C's cautious approach to reassess market conditions, as it seems like a prudent decision that could lead to better overall portfolio performance.
+Prompt:
+### Portfolio Data
+Day: 2024-06-24
+Balance: $23046.15
+Valuation: $115221.26
+Stock Portfolio: AAPL: 174 shares,MSFT: 125 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 25
+Reasoning: I'm shifting towards Trader A's idea to capitalize on Microsoft's growth prospects, as it aligns with my overall strategy of maximizing profits through market trends and news.
+Prompt:Purchased 25 shares of MSFT for $11191.75. Remaining balance: $11854.40
+### Portfolio Data
+Day: 2024-06-25
+Balance: $11854.40
+Valuation: $115875.08
+Stock Portfolio: AAPL: 174 shares,MSFT: 150 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm choosing to reassess the overall market situation and wait before making a decision, as it's better to prioritize caution over potential gains.
+Prompt:
+### Portfolio Data
+Day: 2024-06-26
+Balance: $11854.40
+Valuation: $116783.90
+Stock Portfolio: AAPL: 174 shares,MSFT: 150 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I prioritize aligning with Trader S's cautious approach to avoid making impulsive decisions based on short-term market fluctuations.
+Prompt:
+### Portfolio Data
+Day: 2024-06-27
+Balance: $11854.40
+Valuation: $117035.30
+Stock Portfolio: AAPL: 174 shares,MSFT: 150 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: BUY MSFT SHARES 200
+Reasoning: I'm shifting towards Trader C's idea to align with the group's potential for higher profits and avoid locking out further gains.
+Prompt:Insufficient funds to make this purchase.
+### Portfolio Data
+Day: 2024-06-27
+Balance: $11854.40
+Valuation: $117035.30
+Stock Portfolio: AAPL: 174 shares,MSFT: 150 shares
+            
+### Available Actions:
+- CHECK <Ticker> (View stock price, trends, and breaking news)
+- BUY <Ticker> SHARES <Number of Shares>
+- SELL <Ticker> SHARES <Number of Shares>
+- WAIT (Don't make any moves today)
+- EXIT (End trading and cash out)
+            
+### Trading Rules and Strategy:
+- You can only **BUY or SELL one company per action** and **once per day**.
+- You can only check the same stock ticker once per day.
+- Monitor your **portfolio and valuation** to make valid decisions
+- Make sure to only include the ticker and do not include the company name
+- Remember that you began with a valuation of $100,000, and your goal is to maximize your gains
+            
+### Response Format (Strictly Follow This):
+Action: <Your chosen action>  
+Reasoning: <Brief 1-sentence explanation>  
+End your response here.
+Response:Action: WAIT
+Reasoning: I'm choosing to wait out the volatility today to reassess the market and avoid making impulsive decisions based on short-term price fluctuations.
