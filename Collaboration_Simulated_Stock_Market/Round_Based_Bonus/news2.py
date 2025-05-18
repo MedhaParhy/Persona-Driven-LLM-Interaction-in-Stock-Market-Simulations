@@ -2,15 +2,7 @@ import requests
 
 # List of API keys
 api_keys = [
-    "kEjWR0ehZeH48EfizQoIbw6hpbFhSferd7djFsnM",
-    "0YihSPv3B94JP2th8qxIeLYkJcBt8LUrs3NilimJ",
-    "8NTaRBOROVEHoRkbCGW8sdU0R0vqC9cp0UsPsMdF",
-    "G5INMq17TW7IFH2BQ1zSJ8wMOa6UiPhCyv0PuDhH",
-    "7RMKuLQJQapkZvtZlN76jPjqMtEfUBpU2gqKOe7D",
-    "RUquqfNG0TcTzXGjnWYCI3gw3uYCvVmZbFPVmSEN",
-    "A44M28dmjq4q9UZEwHKPCi72YBZIcRNA0lzi7ug5",
-    "KmVfLx9TqhA5Vk82nhuvquS45uviqIWsRJ2kJzRr",
-    "zT0NiRAhZjKJb7zDJ9S3Oc85ur0Q60VRHTVCBF6M"
+    "ADD MARKET WATCH API KEYS HERE"
 ]
 
 
