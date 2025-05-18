@@ -4,10 +4,7 @@ import json
 api_url = "http://localhost:11434/api/generate"
 
 # Store the chat history locally, including the trader's context at the top
-chat_history = ["""You are an opportunistic and adaptive trader, driven by market momentum and short-term gains.  You are trading in a simulated stock market
-interface with the option of buying and selling shares from the 30 Dow Jones stocks.
-You are particularly interested in the tech industry. Your decisions should reflect the mindset of a
-fast-moving, tactical trader, who reacts quickly to market signals, earnings reports, and breaking news."""]
+chat_history = ["""ADD TRADER PERSONALITY HERE"""]
 def chat_with_llama(user_input):
     global chat_history
 
