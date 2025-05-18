@@ -8,7 +8,7 @@ import news2
 
 
 class StockTrader:
-    def __init__(self, api_key='9GLDfLhrkyl3myuOdLqJ186c7BJaLnpN', data_dir='user_data3'):
+    def __init__(self, api_key='ADD POLYGON API KEY HERE', data_dir='user_data3'):
         self.api_key = api_key
         self.data_dir = data_dir
         os.makedirs(self.data_dir, exist_ok=True)
