@@ -1,6 +1,6 @@
 # Persona-Driven-LLM-Interaction-in-Stock-Market-Simulations
 
-This repository contains the code and experiments for simulating stock market decision-making using Large Language Models (LLMs) primed with distinct behavioral personas. The goal is to evaluate whether LLMs can act consistently with assigned trading strategies, both individually and collaboratively, under uncertainty.
+This repository contains the code for simulating stock market decision-making using Large Language Models (LLMs) primed with distinct behavioral personas. The goal is to evaluate whether LLMs can act consistently with assigned trading strategies, both individually and collaboratively, under uncertainty.
 
 ##  Overview
 
@@ -41,6 +41,3 @@ There is no training code as these experiments use off-the-shelf LLaMa 3.2 3B.
 
 ## Evaluation Code
 To run any of the given experiments, navigate to the directory of the experiment to be run, run main.py, enter a username for the current run, and the experiment will begin to run. For the single LLM stock trading experiments, add in the LLM personality to the chat history in llamatest.py (these can be found above in the personas section).
-
-## Data
-The data for all of the experiments are in folders within each experiment folder.
