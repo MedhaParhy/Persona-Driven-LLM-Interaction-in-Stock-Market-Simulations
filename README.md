@@ -1,6 +1,6 @@
 # Persona-Driven-LLM-Interaction-in-Stock-Market-Simulations
 
-This repository contains the code for simulating stock market decision-making using Large Language Models (LLMs) primed with distinct behavioral personas. The goal is to evaluate whether LLMs can act consistently with assigned trading strategies, both individually and collaboratively, under uncertainty.
+This repository contains the code for simulating stock market decision-making using Large Language Models (LLMs) primed with distinct behavioral personas. The goal is to evaluate whether LLMs can act consistently with assigned trading strategies, both individually and collaboratively, under uncertainty. Due to licensing restrictions related to pricing data and news data, we do not include stock-market interaction data in this repository.
 
 ##  Overview
 
