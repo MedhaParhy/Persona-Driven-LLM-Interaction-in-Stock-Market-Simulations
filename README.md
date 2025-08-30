@@ -40,4 +40,7 @@ For installation you will need to have a version of LLaMa3.2 installed locally. 
 There is no training code as these experiments use off-the-shelf LLaMa 3.2 3B.
 
 ## Evaluation Code
-To run any of the given experiments, navigate to the directory of the experiment to be run, run main.py, enter a username for the current run, and the experiment will begin to run.
+To run any of the given experiments, navigate to the directory of the experiment to be run, run main.py, enter a username for the current run, and the experiment will begin to run. For the single LLM stock trading experiments, add in the LLM personality to the chat history in llamatest.py (these can be found above in the personas section).
+
+## Data
+The data for all of the experiments are in folders within each experiment folder.
