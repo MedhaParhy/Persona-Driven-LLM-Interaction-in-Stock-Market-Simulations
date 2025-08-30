@@ -33,7 +33,11 @@ fundamentals. Every trade you make is backed by research and aligned with a long
 simulated stock market with the option of buying and selling shares from the top tech stocks in the Nasdaq, 
 and the goal is to make profit.
 
-## Installation
-For installation you will need to have a version of LLaMa3.2 installed locally. The authors have used Ollama to install. To run the program, first git clone the repository. Then enter into the folder you wish to run. Install any requirements (os, random, textwrap, requests, json). Add in your API keys to stock_trading.py and news.py. Run main.py.
+## Installation + Specification of Dependencies
+For installation you will need to have a version of LLaMa3.2 installed locally. The authors have used Ollama to install. To run the program, first git clone the repository. Then enter into the folder you wish to run. Install the requirements.txt file using pip install. Add in your API keys (get from Polygon.io and MarketAux) to stock_trading.py and news.py. Run main.py.
 
+## Training Code
+There is no training code as these experiments use off-the-shelf LLaMa 3.2 3B.
 
+## Evaluation Code
+To run any of the given experiments, navigate to the directory of the experiment to be run, run main.py, enter a username for the current run, and the experiment will begin to run.
